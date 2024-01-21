@@ -16,6 +16,8 @@
 
 <br>
 
+Professor: Eng. Paulo Pereira
+
 ###  Demo
 
 The video demonstrating how the application works is available [here](https://youtu.be/45sUbByKQyA).
